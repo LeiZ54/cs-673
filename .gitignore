@@ -56,3 +56,5 @@ nb-configuration.xml
 # Windows specific
 Thumbs.db
 ehthumbs.db
+
+.idea
